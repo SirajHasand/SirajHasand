@@ -35,13 +35,13 @@
 
 I am a **Software Engineer** with a strong foundation in Computer Science and hands-on experience building full-stack web applications. I focus on creating scalable backend APIs, responsive frontends, and reliable database architectures.
 
-<p><img src="https://api.iconify.design/lucide:compass.svg?color=%2338BDF8" width="16" height="16" valign="middle"/> <b>Currently Focusing On:</b> Building robust RESTful APIs and full-stack web applications.</p>
-<p><img src="https://api.iconify.design/lucide:brain-circuit.svg?color=%23A855F7" width="16" height="16" valign="middle"/> <b>AI & Machine Learning:</b> Currently learning AI/ML concepts and integrating intelligent features into full-stack systems.</p>
-<p><img src="https://api.iconify.design/lucide:sprout.svg?color=%2310B981" width="16" height="16" valign="middle"/> <b>Continuous Learning:</b> Deepening knowledge in Clean Architecture, backend system design, and API optimization.</p>
-<p><img src="https://api.iconify.design/lucide:laptop.svg?color=%236366F1" width="16" height="16" valign="middle"/> <b>Frontend Expertise:</b> Crafting intuitive, mobile-responsive interfaces using <b>React</b>, <b>TypeScript</b>, and <b>Tailwind CSS</b>.</p>
-<p><img src="https://api.iconify.design/lucide:server.svg?color=%238B5CF6" width="16" height="16" valign="middle"/> <b>Backend Mastery:</b> Developing secure server-side logic using <b>Laravel</b>, <b>Node.js / Express</b>, and <b>.NET Core</b>.</p>
-<p><img src="https://api.iconify.design/lucide:database.svg?color=%23F59E0B" width="16" height="16" valign="middle"/> <b>Database Design:</b> Architecting efficient relational and non-relational schemas with <b>MySQL</b>, <b>PostgreSQL</b>, and <b>MongoDB</b>.</p>
-<p><img src="https://api.iconify.design/lucide:target.svg?color=%23EF4444" width="16" height="16" valign="middle"/> <b>Goals:</b> Delivering clean, production-ready code that solves real-world business problems.</p>
+* <p><img src="https://api.iconify.design/lucide:compass.svg?color=%2338BDF8" width="16" height="16" valign="middle"/> <b>Currently Focusing On:</b> Building robust RESTful APIs and full-stack web applications.</p>
+* <p><img src="https://api.iconify.design/lucide:brain-circuit.svg?color=%23A855F7" width="16" height="16" valign="middle"/> <b>AI & Machine Learning:</b> Currently learning AI/ML concepts and integrating intelligent features into full-stack systems.</p>
+* <p><img src="https://api.iconify.design/lucide:sprout.svg?color=%2310B981" width="16" height="16" valign="middle"/> <b>Continuous Learning:</b> Deepening knowledge in Clean Architecture, backend system design, and API optimization.</p>
+* <p><img src="https://api.iconify.design/lucide:laptop.svg?color=%236366F1" width="16" height="16" valign="middle"/> <b>Frontend Expertise:</b> Crafting intuitive, mobile-responsive interfaces using <b>React</b>, <b>TypeScript</b>, and <b>Tailwind CSS</b>.</p>
+* <p><img src="https://api.iconify.design/lucide:server.svg?color=%238B5CF6" width="16" height="16" valign="middle"/> <b>Backend Mastery:</b> Developing secure server-side logic using <b>Laravel</b>, <b>Node.js / Express</b>, and <b>.NET Core</b>.</p>
+* <p><img src="https://api.iconify.design/lucide:database.svg?color=%23F59E0B" width="16" height="16" valign="middle"/> <b>Database Design:</b> Architecting efficient relational and non-relational schemas with <b>MySQL</b>, <b>PostgreSQL</b>, and <b>MongoDB</b>.</p>
+* <p><img src="https://api.iconify.design/lucide:target.svg?color=%23EF4444" width="16" height="16" valign="middle"/> <b>Goals:</b> Delivering clean, production-ready code that solves real-world business problems.</p>
 
 ---
 
