@@ -31,20 +31,20 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/user.svg" width="22" height="22" /> About Me
+## <img src="https://api.iconify.design/lucide:user.svg?color=%2338BDF8" width="22" height="22" valign="middle"/> About Me
 
 I am a **Software Engineer** with a strong foundation in Computer Science and hands-on experience building full-stack web applications. I focus on creating scalable backend APIs, responsive frontends, and reliable database architectures.
 
-* <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/compass.svg" width="16" height="16" /> **Currently Focusing On:** Building robust RESTful APIs and full-stack web applications.
-* <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/sprout.svg" width="16" height="16" /> **Continuous Learning:** Deepening knowledge in Clean Architecture, backend system design, and API optimization.
-* <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/laptop.svg" width="16" height="16" /> **Frontend Expertise:** Crafting intuitive, mobile-responsive interfaces using **React**, **TypeScript**, and **Tailwind CSS**.
-* <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/server.svg" width="16" height="16" /> **Backend Mastery:** Developing secure server-side logic using **Laravel**, **Node.js / Express**, and **.NET Core**.
-* <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/database.svg" width="16" height="16" /> **Database Design:** Architecting efficient relational and non-relational schemas with **MySQL**, **PostgreSQL**, and **MongoDB**.
-* <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/target.svg" width="16" height="16" /> **Goals:** Delivering clean, production-ready code that solves real-world business problems.
+* <img src="https://api.iconify.design/lucide:compass.svg?color=%2338BDF8" width="16" height="16" valign="middle"/> **Currently Focusing On:** Building robust RESTful APIs and full-stack web applications.
+* <img src="https://api.iconify.design/lucide:sprout.svg?color=%2310B981" width="16" height="16" valign="middle"/> **Continuous Learning:** Deepening knowledge in Clean Architecture, backend system design, and API optimization.
+* <img src="https://api.iconify.design/lucide:laptop.svg?color=%236366F1" width="16" height="16" valign="middle"/> **Frontend Expertise:** Crafting intuitive, mobile-responsive interfaces using **React**, **TypeScript**, and **Tailwind CSS**.
+* <img src="https://api.iconify.design/lucide:server.svg?color=%238B5CF6" width="16" height="16" valign="middle"/> **Backend Mastery:** Developing secure server-side logic using **Laravel**, **Node.js / Express**, and **.NET Core**.
+* <img src="https://api.iconify.design/lucide:database.svg?color=%23F59E0B" width="16" height="16" valign="middle"/> **Database Design:** Architecting efficient relational and non-relational schemas with **MySQL**, **PostgreSQL**, and **MongoDB**.
+* <img src="https://api.iconify.design/lucide:target.svg?color=%23EF4444" width="16" height="16" valign="middle"/> **Goals:** Delivering clean, production-ready code that solves real-world business problems.
 
 ---
 
-## <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/wrench.svg" width="22" height="22" /> Tech Stack
+## <img src="https://api.iconify.design/lucide:wrench.svg?color=%2338BDF8" width="22" height="22" valign="middle"/> Tech Stack
 
 <div align="center">
 
@@ -65,7 +65,7 @@ I am a **Software Engineer** with a strong foundation in Computer Science and ha
 
 ---
 
-## <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/line-chart.svg" width="22" height="22" /> GitHub Analytics
+## <img src="https://api.iconify.design/lucide:line-chart.svg?color=%2338BDF8" width="22" height="22" valign="middle"/> GitHub Analytics
 
 <div align="center">
 
@@ -80,7 +80,7 @@ I am a **Software Engineer** with a strong foundation in Computer Science and ha
 
 ---
 
-## <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/folder-git-2.svg" width="22" height="22" /> Featured Projects
+## <img src="https://api.iconify.design/lucide:folder-git-2.svg?color=%2338BDF8" width="22" height="22" valign="middle"/> Featured Projects
 
 <table>
   <tr>
@@ -111,7 +111,7 @@ I am a **Software Engineer** with a strong foundation in Computer Science and ha
 
 ---
 
-## <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/mail.svg" width="22" height="22" /> Connect With Me
+## <img src="https://api.iconify.design/lucide:mail.svg?color=%2338BDF8" width="22" height="22" valign="middle"/> Connect With Me
 
 <div align="center">
 
