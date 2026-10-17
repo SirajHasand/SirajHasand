@@ -25,7 +25,7 @@
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;Laravel+%26+Node.js+Backend+Architect;React+%26+Tailwind+CSS+UI+Developer;Building+Scalable+%26+Maintainable+Systems" alt="Typing introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;Laravel+%26+Node.js+Backend+Architect;React+%26+Tailwind+CSS+UI+Developer;AI+%26+Machine+Learning+Learner;Building+Scalable+%26+Maintainable+Systems" alt="Typing introduction"/>
 
 </div>
 
@@ -35,12 +35,13 @@
 
 I am a **Software Engineer** with a strong foundation in Computer Science and hands-on experience building full-stack web applications. I focus on creating scalable backend APIs, responsive frontends, and reliable database architectures.
 
-* <img src="https://api.iconify.design/lucide:compass.svg?color=%2338BDF8" width="16" height="16" valign="middle"/> **Currently Focusing On:** Building robust RESTful APIs and full-stack web applications.
-* <img src="https://api.iconify.design/lucide:sprout.svg?color=%2310B981" width="16" height="16" valign="middle"/> **Continuous Learning:** Deepening knowledge in Clean Architecture, backend system design, and API optimization.
-* <img src="https://api.iconify.design/lucide:laptop.svg?color=%236366F1" width="16" height="16" valign="middle"/> **Frontend Expertise:** Crafting intuitive, mobile-responsive interfaces using **React**, **TypeScript**, and **Tailwind CSS**.
-* <img src="https://api.iconify.design/lucide:server.svg?color=%238B5CF6" width="16" height="16" valign="middle"/> **Backend Mastery:** Developing secure server-side logic using **Laravel**, **Node.js / Express**, and **.NET Core**.
-* <img src="https://api.iconify.design/lucide:database.svg?color=%23F59E0B" width="16" height="16" valign="middle"/> **Database Design:** Architecting efficient relational and non-relational schemas with **MySQL**, **PostgreSQL**, and **MongoDB**.
-* <img src="https://api.iconify.design/lucide:target.svg?color=%23EF4444" width="16" height="16" valign="middle"/> **Goals:** Delivering clean, production-ready code that solves real-world business problems.
+<p><img src="https://api.iconify.design/lucide:compass.svg?color=%2338BDF8" width="16" height="16" valign="middle"/> <b>Currently Focusing On:</b> Building robust RESTful APIs and full-stack web applications.</p>
+<p><img src="https://api.iconify.design/lucide:brain-circuit.svg?color=%23A855F7" width="16" height="16" valign="middle"/> <b>AI & Machine Learning:</b> Currently learning AI/ML concepts and integrating intelligent features into full-stack systems.</p>
+<p><img src="https://api.iconify.design/lucide:sprout.svg?color=%2310B981" width="16" height="16" valign="middle"/> <b>Continuous Learning:</b> Deepening knowledge in Clean Architecture, backend system design, and API optimization.</p>
+<p><img src="https://api.iconify.design/lucide:laptop.svg?color=%236366F1" width="16" height="16" valign="middle"/> <b>Frontend Expertise:</b> Crafting intuitive, mobile-responsive interfaces using <b>React</b>, <b>TypeScript</b>, and <b>Tailwind CSS</b>.</p>
+<p><img src="https://api.iconify.design/lucide:server.svg?color=%238B5CF6" width="16" height="16" valign="middle"/> <b>Backend Mastery:</b> Developing secure server-side logic using <b>Laravel</b>, <b>Node.js / Express</b>, and <b>.NET Core</b>.</p>
+<p><img src="https://api.iconify.design/lucide:database.svg?color=%23F59E0B" width="16" height="16" valign="middle"/> <b>Database Design:</b> Architecting efficient relational and non-relational schemas with <b>MySQL</b>, <b>PostgreSQL</b>, and <b>MongoDB</b>.</p>
+<p><img src="https://api.iconify.design/lucide:target.svg?color=%23EF4444" width="16" height="16" valign="middle"/> <b>Goals:</b> Delivering clean, production-ready code that solves real-world business problems.</p>
 
 ---
 
@@ -49,7 +50,7 @@ I am a **Software Engineer** with a strong foundation in Computer Science and ha
 <div align="center">
 
 ### Backend & Frameworks
-<img src="https://skillicons.dev/icons?i=php,laravel,cs,dotnet,nodejs,express&perline=6" alt="Backend technologies"/>
+<img src="https://skillicons.dev/icons?i=php,laravel,cs,dotnet,nodejs,express,py" alt="Backend technologies"/>
 
 <br />
 
