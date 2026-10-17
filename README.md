@@ -31,20 +31,20 @@
 
 ---
 
-## 👨‍💻 About Me
+## <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/user.svg" width="22" height="22" /> About Me
 
 I am a **Software Engineer** with a strong foundation in Computer Science and hands-on experience building full-stack web applications. I focus on creating scalable backend APIs, responsive frontends, and reliable database architectures.
 
-* 🔭 **Currently Focusing On:** Building robust RESTful APIs and full-stack web applications.
-* 🌱 **Continuous Learning:** Deepening knowledge in Clean Architecture, backend system design, and API optimization.
-* 💻 **Frontend Expertise:** Crafting intuitive, mobile-responsive interfaces using **React**, **TypeScript**, and **Tailwind CSS**.
-* ⚡ **Backend Mastery:** Developing secure server-side logic using **Laravel**, **Node.js / Express**, and **.NET Core**.
-* 🗄️ **Database Design:** Architecting efficient relational and non-relational schemas with **MySQL**, **PostgreSQL**, and **MongoDB**.
-* 🎯 **Goals:** Delivering clean, production-ready code that solves real-world business problems.
+* <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/compass.svg" width="16" height="16" /> **Currently Focusing On:** Building robust RESTful APIs and full-stack web applications.
+* <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/sprout.svg" width="16" height="16" /> **Continuous Learning:** Deepening knowledge in Clean Architecture, backend system design, and API optimization.
+* <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/laptop.svg" width="16" height="16" /> **Frontend Expertise:** Crafting intuitive, mobile-responsive interfaces using **React**, **TypeScript**, and **Tailwind CSS**.
+* <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/server.svg" width="16" height="16" /> **Backend Mastery:** Developing secure server-side logic using **Laravel**, **Node.js / Express**, and **.NET Core**.
+* <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/database.svg" width="16" height="16" /> **Database Design:** Architecting efficient relational and non-relational schemas with **MySQL**, **PostgreSQL**, and **MongoDB**.
+* <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/target.svg" width="16" height="16" /> **Goals:** Delivering clean, production-ready code that solves real-world business problems.
 
 ---
 
-## 🧰 Tech Stack
+## <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/wrench.svg" width="22" height="22" /> Tech Stack
 
 <div align="center">
 
@@ -65,7 +65,22 @@ I am a **Software Engineer** with a strong foundation in Computer Science and ha
 
 ---
 
-## 🚀 Featured Projects
+## <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/line-chart.svg" width="22" height="22" /> GitHub Analytics
+
+<div align="center">
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SirajHasand&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirajHasand&layout=compact&hide_border=true&theme=tokyonight&hide=html,css" alt="Most used languages" />
+</p>
+
+<img src="https://streak-stats.demolab.com?user=SirajHasand&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/folder-git-2.svg" width="22" height="22" /> Featured Projects
 
 <table>
   <tr>
@@ -96,22 +111,7 @@ I am a **Software Engineer** with a strong foundation in Computer Science and ha
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SirajHasand&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirajHasand&layout=compact&hide_border=true&theme=tokyonight&hide=html,css" alt="Most used languages" />
-</p>
-
-<img src="https://streak-stats.demolab.com?user=SirajHasand&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-
-</div>
-
----
-
-## 📫 Connect With Me
+## <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/mail.svg" width="22" height="22" /> Connect With Me
 
 <div align="center">
 
