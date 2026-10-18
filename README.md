@@ -1,8 +1,34 @@
 <!-- ================= HEADER ================= -->
 
+<!-- ================= HEADER ================= -->
+
 <div align="center">
 
-# <span style="background: linear-gradient(to right, #22d3ee, #5eead4, #d946ef); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Hi, I'm Sirajuddin Hasand 👋</span>
+<svg width="100%" height="120" viewBox="0 0 900 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Cyberpunk Linear Gradient -->
+    <linearGradient id="cyberpunk-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22d3ee" />
+      <stop offset="50%" stop-color="#5eead4" />
+      <stop offset="100%" stop-color="#d946ef" />
+    </linearGradient>
+    
+    <!-- Neon Drop Shadow Glow -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <text x="50%" y="50%" dominant-baseline="central" text-anchor="middle" 
+        font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" 
+        font-weight="900" font-size="46" fill="url(#cyberpunk-grad)" filter="url(#glow)">
+    Hi, I'm Sirajuddin Hasand 👋
+  </text>
+</svg>
 
 ### **Full-Stack Software Engineer**
 `Laravel & PHP` • `React & Node.js` • `.NET Core` • `MySQL & PostgreSQL`
