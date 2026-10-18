@@ -4,31 +4,31 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:f97316,50:ec4899,100:8b5cf6&text=Sirajuddin%20Hasand&fontSize=72&fontColor=ffffff&fontAlignY=42&animation=fadeIn&desc=FULL-STACK%20SOFTWARE%20ENGINEER&descSize=23&descAlignY=66&descColor=ffffff" alt="Sirajuddin Hasand - Full-Stack Software Engineer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:1e3a5f,100:475569&section=header&text=Sirajuddin%20Hasand&fontSize=72&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=FULL-STACK%20SOFTWARE%20ENGINEER&descSize=23&descAlignY=60&descColor=ffffff" alt="Sirajuddin Hasand - Full-Stack Software Engineer"/>
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=720&lines=Hi%2C+I%27m+Sirajuddin+Hasand+%F0%9F%91%8B;Laravel+%26+Node.js+Backend+Engineer;React+%26+Tailwind+CSS+UI+Developer;AI+%26+Machine+Learning+Learner;Building+Scalable+%26+Maintainable+Systems" alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&width=720&lines=Hi%2C+I%27m+Sirajuddin+Hasand+%F0%9F%91%8B;Laravel+%26+Node.js+Backend+Engineer;React+%26+Tailwind+CSS+UI+Developer;AI+%26+Machine+Learning+Learner;Building+Scalable+%26+Maintainable+Systems" alt="Animated introduction"/>
 
 <br/><br/>
 
 <p>
-  <img src="https://img.shields.io/badge/Laravel-EF4444?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/React-0F172A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-166534?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET"/>
-  <img src="https://img.shields.io/badge/MySQL-2563EB?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Laravel-334155?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/React-334155?style=flat-square&logo=react&logoColor=white" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-334155?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/.NET-334155?style=flat-square&logo=dotnet&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/MySQL-334155?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/PostgreSQL-334155?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 </p>
 
 <p>
   <a href="https://sirajhasand.vercel.app/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-0F172A?style=for-the-badge&logo=vercel&logoColor=22D3EE" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/PORTFOLIO-1E3A8A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://linkedin.com/in/sirajuddin-hasand-136516300">
-    <img src="https://img.shields.io/badge/LINKEDIN-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/SirajHasand">
-    <img src="https://img.shields.io/badge/GITHUB-0F172A?style=for-the-badge&logo=github&logoColor=C084FC" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GITHUB-1E3A8A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
@@ -38,19 +38,16 @@
 
 </div>
 
-<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:22d3ee,50:5eead4,100:d946ef" alt="Gradient divider"/>
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:1e3a5f,100:475569" alt="Gradient divider"/>
 
 <!-- ===================================================== -->
 <!--                      ABOUT ME                         -->
 <!-- ===================================================== -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=75&color=0:22d3ee,100:d946ef&text=ABOUT%20ME&fontSize=30&fontColor=ffffff&fontAlignY=52" alt="About Me"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=75&color=0:1e3a5f,100:475569&text=ABOUT%20ME&fontSize=30&fontColor=ffffff&fontAlignY=52" alt="About Me"/>
 </div>
 
-I'm a **Full-Stack Software Engineer** with a strong foundation in Computer Science and a passion for building modern, reliable, and maintainable web applications.
-
-My focus is on combining clean code, intuitive user interfaces, well-designed APIs, and efficient databases to create software that solves real-world problems.
 
 - 🚀 **Currently Focusing On:** Building full-stack applications and robust RESTful APIs.
 - 🎨 **Frontend Development:** Creating responsive interfaces using React, TypeScript, JavaScript, and Tailwind CSS.
@@ -62,14 +59,14 @@ My focus is on combining clean code, intuitive user interfaces, well-designed AP
 
 <br/>
 
-<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:d946ef,50:5eead4,100:22d3ee" alt="Gradient divider"/>
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:475569,100:1e3a5f" alt="Gradient divider"/>
 
 <!-- ===================================================== -->
 <!--                     TECH STACK                        -->
 <!-- ===================================================== -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=75&color=0:d946ef,100:22d3ee&text=TECH%20STACK&fontSize=30&fontColor=ffffff&fontAlignY=52" alt="Technology Stack"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=75&color=0:475569,100:1e3a5f&text=TECH%20STACK&fontSize=30&fontColor=ffffff&fontAlignY=52" alt="Technology Stack"/>
 </div>
 
 <div align="center">
@@ -92,24 +89,24 @@ My focus is on combining clean code, intuitive user interfaces, well-designed AP
 
 </div>
 
-<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:22d3ee,50:5eead4,100:d946ef" alt="Gradient divider"/>
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:1e3a5f,100:475569" alt="Gradient divider"/>
 
 <!-- ===================================================== -->
 <!--                  GITHUB ANALYTICS                     -->
 <!-- ===================================================== -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=75&color=0:22d3ee,100:d946ef&text=GITHUB%20ANALYTICS&fontSize=28&fontColor=ffffff&fontAlignY=52" alt="GitHub Analytics"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=75&color=0:1e3a5f,100:475569&text=GITHUB%20ANALYTICS&fontSize=28&fontColor=ffffff&fontAlignY=52" alt="GitHub Analytics"/>
 </div>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SirajHasand&show_icons=true&hide_border=true&title_color=22D3EE&icon_color=D946EF&text_color=C9D1D9&bg_color=0D1117" alt="GitHub profile statistics"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirajHasand&layout=compact&hide_border=true&title_color=22D3EE&text_color=C9D1D9&bg_color=0D1117&langs_count=8&hide=html,css" alt="Most used programming languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SirajHasand&show_icons=true&hide_border=true&title_color=60A5FA&icon_color=94A3B8&text_color=C9D1D9&bg_color=0F172A" alt="GitHub profile statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirajHasand&layout=compact&hide_border=true&title_color=60A5FA&text_color=C9D1D9&bg_color=0F172A&langs_count=8&hide=html,css" alt="Most used programming languages"/>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=SirajHasand&background=0D1117&border=0D1117&stroke=334155&ring=D946EF&fire=5EEAD4&currStreakNum=22D3EE&sideNums=94A3B8&currStreakLabel=D946EF&sideLabels=22D3EE&dates=64748B&hide_border=true" alt="GitHub contribution streak"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=SirajHasand&background=0F172A&border=0F172A&stroke=334155&ring=94A3B8&fire=60A5FA&currStreakNum=60A5FA&sideNums=94A3B8&currStreakLabel=94A3B8&sideLabels=60A5FA&dates=64748B&hide_border=true" alt="GitHub contribution streak"/>
 
 <br/><br/>
 
@@ -117,14 +114,14 @@ My focus is on combining clean code, intuitive user interfaces, well-designed AP
 
 </div>
 
-<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:d946ef,50:5eead4,100:22d3ee" alt="Gradient divider"/>
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:475569,100:1e3a5f" alt="Gradient divider"/>
 
 <!-- ===================================================== -->
 <!--                  FEATURED PROJECTS                    -->
 <!-- ===================================================== -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=75&color=0:d946ef,100:22d3ee&text=FEATURED%20PROJECTS&fontSize=28&fontColor=ffffff&fontAlignY=52" alt="Featured Projects"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=75&color=0:475569,100:1e3a5f&text=FEATURED%20PROJECTS&fontSize=28&fontColor=ffffff&fontAlignY=52" alt="Featured Projects"/>
 </div>
 
 <table>
@@ -149,7 +146,7 @@ A web-based management solution designed to support pharmacy inventory, sales op
 <br/>
 
 <a href="https://github.com/SirajHasand/POS-management-system">
-  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-0F172A?style=for-the-badge&logo=github&logoColor=22D3EE" alt="View Pharmacy POS repository"/>
+  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-334155?style=for-the-badge&logo=github&logoColor=white" alt="View Pharmacy POS repository"/>
 </a>
 
 </td>
@@ -173,7 +170,7 @@ A personal portfolio showcasing software projects, technical skills, and develop
 <br/>
 
 <a href="https://sirajhasand.vercel.app/">
-  <img src="https://img.shields.io/badge/VISIT_LIVE_WEBSITE-0F172A?style=for-the-badge&logo=vercel&logoColor=C084FC" alt="Visit portfolio website"/>
+  <img src="https://img.shields.io/badge/VISIT_LIVE_WEBSITE-1E3A8A?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit portfolio website"/>
 </a>
 
 </td>
@@ -182,14 +179,14 @@ A personal portfolio showcasing software projects, technical skills, and develop
 
 <br/>
 
-<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:22d3ee,50:5eead4,100:d946ef" alt="Gradient divider"/>
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:1e3a5f,100:475569" alt="Gradient divider"/>
 
 <!-- ===================================================== -->
 <!--                    CONNECT WITH ME                    -->
 <!-- ===================================================== -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=75&color=0:22d3ee,100:d946ef&text=LET%27S%20CONNECT&fontSize=29&fontColor=ffffff&fontAlignY=52" alt="Let's Connect"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=75&color=0:1e3a5f,100:475569&text=LET%27S%20CONNECT&fontSize=29&fontColor=ffffff&fontAlignY=52" alt="Let's Connect"/>
 
 <br/>
 
@@ -202,13 +199,13 @@ A personal portfolio showcasing software projects, technical skills, and develop
 <br/>
 
 <a href="https://sirajhasand.vercel.app/">
-  <img src="https://img.shields.io/badge/Website-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"/>
+  <img src="https://img.shields.io/badge/Website-334155?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"/>
 </a>
 <a href="https://linkedin.com/in/sirajuddin-hasand-136516300">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/SirajHasand">
-  <img src="https://img.shields.io/badge/GitHub-A855F7?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-334155?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <br/><br/>
@@ -219,6 +216,6 @@ A personal portfolio showcasing software projects, technical skills, and develop
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:22d3ee,50:5eead4,100:d946ef&section=footer&reversal=true" alt="Gradient footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:1e3a5f,100:475569&section=footer&reversal=true" alt="Gradient footer"/>
 
 </div>
