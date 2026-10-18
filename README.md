@@ -1,10 +1,8 @@
 <!-- ================= HEADER ================= -->
 
-<!-- ================= HEADER ================= -->
-
 <div align="center">
 
-<svg width="100%" height="120" viewBox="0 0 900 120" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="130" viewBox="0 0 900 130" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <!-- Cyberpunk Linear Gradient -->
     <linearGradient id="cyberpunk-grad" x1="0%" y1="0%" x2="100%" y2="0%">
@@ -24,14 +22,14 @@
   </defs>
   
   <text x="50%" y="50%" dominant-baseline="central" text-anchor="middle" 
-        font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" 
-        font-weight="900" font-size="46" fill="url(#cyberpunk-grad)" filter="url(#glow)">
+        font-family="'Fira Code', system-ui, -apple-system, sans-serif" 
+        font-weight="900" font-size="48" fill="url(#cyberpunk-grad)" filter="url(#glow)">
     Hi, I'm Sirajuddin Hasand 👋
   </text>
 </svg>
 
 ### **Full-Stack Software Engineer**
-`Laravel & PHP` • `React & Node.js` • `.NET Core` • `MySQL & PostgreSQL`
+`PHP & Laravel` • `React & Node.js` • `.NET Core` • `MySQL & PostgreSQL`
 
 <p align="center">
   Crafting high-performance, maintainable web applications with clean code, modern UI, and robust backend architectures.
@@ -55,99 +53,32 @@
 
 </div>
 
----
-
-## <img src="https://api.iconify.design/lucide:user.svg?color=%2322d3ee" width="22" height="22" valign="middle"/> About Me
-
-I am a **Software Engineer** with a strong foundation in Computer Science and hands-on experience building full-stack web applications. I focus on creating scalable backend APIs, responsive frontends, and reliable database architectures.
-
-- <span><img src="https://api.iconify.design/lucide:compass.svg?color=%2322d3ee" width="16" height="16" valign="middle"/> <b>Currently Focusing On:</b> Building robust RESTful APIs and full-stack web applications.</span>
-- <span><img src="https://api.iconify.design/lucide:brain-circuit.svg?color=%23d946ef" width="16" height="16" valign="middle"/> <b>AI & Machine Learning:</b> Currently learning AI/ML concepts and integrating intelligent features into full-stack systems.</span>
-- <span><img src="https://api.iconify.design/lucide:sprout.svg?color=%235eead4" width="16" height="16" valign="middle"/> <b>Continuous Learning:</b> Deepening knowledge in Clean Architecture, backend system design, and API optimization.</span>
-- <span><img src="https://api.iconify.design/lucide:laptop.svg?color=%2322d3ee" width="16" height="16" valign="middle"/> <b>Frontend Expertise:</b> Crafting intuitive, mobile-responsive interfaces using <b>React</b>, <b>TypeScript</b>, and <b>Tailwind CSS</b>.</span>
-- <span><img src="https://api.iconify.design/lucide:server.svg?color=%23a855f7" width="16" height="16" valign="middle"/> <b>Backend Mastery:</b> Developing secure server-side logic using <b>Laravel</b>, <b>Node.js / Express</b>, and <b>.NET Core</b>.</span>
-- <span><img src="https://api.iconify.design/lucide:database.svg?color=%23f43f5e" width="16" height="16" valign="middle"/> <b>Database Design:</b> Architecting efficient relational and non-relational schemas with <b>MySQL</b>, <b>PostgreSQL</b>, and <b>MongoDB</b>.</span>
-- <span><img src="https://api.iconify.design/lucide:target.svg?color=%23d946ef" width="16" height="16" valign="middle"/> <b>Goals:</b> Delivering clean, production-ready code that solves real-world business problems.</span>
-
----
-
-## <img src="https://api.iconify.design/lucide:wrench.svg?color=%2322d3ee" width="22" height="22" valign="middle"/> Tech Stack
-
-<div align="center">
-
-### Backend & Frameworks
-<img src="https://skillicons.dev/icons?i=php,laravel,cs,dotnet,nodejs,express,py&theme=dark" alt="Backend technologies"/>
-
 <br />
 
-### Frontend & UI
-<img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,vite,bootstrap,html,css&perline=8&theme=dark" alt="Frontend technologies"/>
+<!-- ================= ABOUT ME ================= -->
 
-<br />
+<svg width="100%" height="50" viewBox="0 0 900 50" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cyberpunk-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22d3ee" />
+      <stop offset="50%" stop-color="#5eead4" />
+      <stop offset="100%" stop-color="#d946ef" />
+    </linearGradient>
+  </defs>
+  <text x="0" y="32" font-family="'Fira Code', monospace" font-weight="800" font-size="24" fill="url(#cyberpunk-grad)">
+    ⚡ // ABOUT_ME
+  </text>
+</svg>
 
-### Databases, Tools & Platforms
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,github,vscode,postman,vercel&perline=8&theme=dark" alt="Tools and databases"/>
-
-</div>
-
----
-
-## <img src="https://api.iconify.design/lucide:line-chart.svg?color=%23d946ef" width="22" height="22" valign="middle"/> GitHub Analytics
-
-<div align="center">
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SirajHasand&show_icons=true&hide_border=true&title_color=22d3ee&icon_color=d946ef&text_color=94a3b8&bg_color=0f172a&count_private=true" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirajHasand&layout=compact&hide_border=true&title_color=22d3ee&text_color=94a3b8&bg_color=0f172a&hide=html,css" alt="Most used languages" />
-</p>
-
-<img src="https://streak-stats.demolab.com?user=SirajHasand&background=0F172A&border=0F172A&stroke=22D3EE&ring=D946EF&fire=D946EF&currStreakNum=22D3EE&sideNums=94A3B8&sideTitle=22D3EE&dates=94A3B8&hide_border=true" alt="GitHub contribution streak" />
-
-</div>
-
----
-
-## <img src="https://api.iconify.design/lucide:folder-git-2.svg?color=%2322d3ee" width="22" height="22" valign="middle"/> Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💊 Pharmacy & POS Management System</h3>
-      <p>A comprehensive web-based management solution designed for pharmacy inventory tracking, sales processing, and customer analytics.</p>
-      <ul>
-        <li>Inventory and stock level management</li>
-        <li>Point of Sale (POS) & transaction tracking</li>
-        <li>Structured database workflows & reporting</li>
-      </ul>
-      <p><b>Tech Stack:</b> <code>PHP</code> <code>Laravel</code> <code>MySQL</code> <code>JavaScript</code> <code>Tailwind CSS</code></p>
-      <a href="https://github.com/SirajHasand/POS-management-system"><b>View Repository →</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌐 Developer Portfolio & Showcase</h3>
-      <p>A sleek, responsive personal portfolio showcasing projects, technical expertise, and software engineering accomplishments.</p>
-      <ul>
-        <li>Modern visual design with seamless navigation</li>
-        <li>Optimized performance and fast load times</li>
-        <li>Fully responsive across desktop and mobile</li>
-      </ul>
-      <p><b>Tech Stack:</b> <code>React</code> <code>Tailwind CSS</code> <code>Vercel</code></p>
-      <a href="https://sirajhasand.vercel.app/"><b>Visit Website →</b></a>
-    </td>
-  </tr>
-</table>
-
----
-
-## <img src="https://api.iconify.design/lucide:mail.svg?color=%23d946ef" width="22" height="22" valign="middle"/> Connect With Me
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Website-sirajhasand.vercel.app-06B6D4?style=for-the-badge&logo=vercel&logoColor=white)](https://sirajhasand.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sirajuddin%20Hasand-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sirajuddin-hasand-136516300)
-[![GitHub](https://img.shields.io/badge/GitHub-@SirajHasand-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SirajHasand)
-
-<br />
-
-> *"Building, learning, and improving one project at a time."* ✨
-
-</div>
+```bash
+sirajuddin@cyber-node:~$ cat about_me.json
+{
+  "role": "Full-Stack Software Engineer",
+  "education": "Computer Science",
+  "core_focus": ["RESTful API Architecture", "Clean Code", "System Design"],
+  "learning": ["AI & Machine Learning Concepts", "Advanced System Optimization"],
+  "frontend": ["React", "TypeScript", "Tailwind CSS"],
+  "backend": ["Laravel", "Node.js / Express", ".NET Core"],
+  "databases": ["MySQL", "PostgreSQL", "MongoDB"],
+  "mission": "Building scalable, high-performance web applications that solve real-world problems."
+}
