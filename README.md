@@ -4,8 +4,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:22d3ee,50:5eead4,100:d946ef&text=Sirajuddin%20Hasand&fontSize=72&fontColor=0f172a&fontAlignY=42&animation=fadeIn&desc=FULL-STACK%20SOFTWARE%20ENGINEER&descSize=23&descAlignY=66&descColor=0f172a" alt="Sirajuddin Hasand - Full-Stack Software Engineer"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:f97316,50:ec4899,100:8b5cf6&text=Sirajuddin%20Hasand&fontSize=72&fontColor=ffffff&fontAlignY=42&animation=fadeIn&desc=FULL-STACK%20SOFTWARE%20ENGINEER&descSize=23&descAlignY=66&descColor=ffffff" alt="Sirajuddin Hasand - Full-Stack Software Engineer"/>
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=720&lines=Hi%2C+I%27m+Sirajuddin+Hasand+%F0%9F%91%8B;Laravel+%26+Node.js+Backend+Engineer;React+%26+Tailwind+CSS+UI+Developer;AI+%26+Machine+Learning+Learner;Building+Scalable+%26+Maintainable+Systems" alt="Animated introduction"/>
