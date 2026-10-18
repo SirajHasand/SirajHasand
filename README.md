@@ -49,13 +49,13 @@
 </div>
 
 
-- 🚀 **Currently Focusing On:** Building full-stack applications and robust RESTful APIs.
-- 🎨 **Frontend Development:** Creating responsive interfaces using React, TypeScript, JavaScript, and Tailwind CSS.
-- ⚙️ **Backend Engineering:** Developing server-side applications with Laravel, Node.js / Express, and .NET Core.
-- 🗄️ **Database Design:** Working with MySQL, PostgreSQL, and MongoDB to structure and manage data efficiently.
-- 🧠 **AI & Machine Learning:** Exploring AI/ML concepts and their practical applications in software.
-- 🏗️ **Engineering Practices:** Improving my knowledge of Clean Architecture, system design, and API optimization.
-- 🎯 **My Goal:** Building maintainable, production-ready software that delivers real value.
+I'm a full-stack software engineer who builds scalable backends and polished interfaces, and I'm growing my skills in AI & Machine Learning to make the software I build smarter.
+
+- <img src="https://api.iconify.design/lucide:rocket.svg?color=%2360a5fa" width="18" height="18" valign="middle"/>&nbsp; **Focus:** Full-stack apps and RESTful APIs, with <b>AI/ML</b> integration.
+- <img src="https://api.iconify.design/lucide:layout-dashboard.svg?color=%2360a5fa" width="18" height="18" valign="middle"/>&nbsp; **Frontend:** <b>React</b>, <b>TypeScript</b>, <b>Tailwind CSS</b>.
+- <img src="https://api.iconify.design/lucide:server.svg?color=%2360a5fa" width="18" height="18" valign="middle"/>&nbsp; **Backend:** <b>Laravel</b>, <b>Node.js / Express</b>, <b>.NET Core</b>.
+- <img src="https://api.iconify.design/lucide:database.svg?color=%2360a5fa" width="18" height="18" valign="middle"/>&nbsp; **Databases:** <b>MySQL</b>, <b>PostgreSQL</b>, <b>MongoDB</b>.
+- <img src="https://api.iconify.design/lucide:target.svg?color=%2360a5fa" width="18" height="18" valign="middle"/>&nbsp; **Goal:** Clean, maintainable, production-ready software.
 
 <br/>
 
